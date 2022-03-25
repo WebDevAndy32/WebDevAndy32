@@ -4,9 +4,7 @@ I studied MERN Stack through FreeCodeCamp.
 
 I'm trying to get started professionally in Frontend Development or something similar.
 
-Currently, I am building projects to demonstrate my skill level and hopefully interest an employer in hiring me.
-
-I intend to also learn Unit Testing, Typescript, and contribute to open source projects while building my own projects.
+I'm looking to explore other frontend libraries like Angular or testing frameworks like Jest or Mocha.
 
 You can reach me at webdevandy32@gmail.com.
 
